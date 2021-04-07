@@ -1,0 +1,11 @@
+{
+	"name": "blobstoragecontainer",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"serviceEndpoint": "https://websiteimagesblob202104.blob.core.windows.net",
+			"accountKind": "StorageV2"
+		}
+	}
+}
